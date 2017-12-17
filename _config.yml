@@ -92,6 +92,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
+  Flags: /flags/ || flag
 
 # Enable/Disable menu icons.
 menu_icons:
